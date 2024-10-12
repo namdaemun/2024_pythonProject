@@ -8,7 +8,7 @@ size = int(input())
 print(size)
 
 if size > 100:
-    print("잘못된 점수입니다. 제대로 입력하세요")
+    print("잘못된 점수입니다.")
 elif size >= 90:
     print("상")
 elif size >= 70:
